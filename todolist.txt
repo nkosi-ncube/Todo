@@ -1,6 +1,3 @@
-Study physics
-Go buy groceries
-Go to campus for a demo
-testng this
-monetary isuues
-xxxxxx
+11/03/2024: Testing if the todo works
+11/03/2024: Checking stuff out in Java
+26/03/2024: Going out with family
